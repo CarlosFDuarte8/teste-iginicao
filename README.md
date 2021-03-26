@@ -19,9 +19,9 @@ Projeto para processo seletivo na Ignição Digital. Com algumas Interações us
     DB_CONNECTION=mysql  
     DB_HOST=127.0.0.1  
     DB_PORT=3306  
-    DB_DATABASE=db_ignicao  
+    DB_DATABASE=ignicao  
     DB_USERNAME=root  
-    DB_PASSWORD=mysql
+    DB_PASSWORD=kepchup
     
 #### Comandos para executar o projeto
     composer install
